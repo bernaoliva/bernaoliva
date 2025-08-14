@@ -5,9 +5,9 @@
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/bernaoliva)](https://github.com/bernaoliva)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/SEU-LINK)](https://www.linkedin.com/in/bernardo-oliva)
 [![E-mail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:boliva@hotmail.com)
-### Um pouco sobre mim:  <img src="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" width="50">
+### Um pouco sobre mim:  
 **Foco em Dados, IA e Automação — em estudo contínuo (Data Science, Deep Learning, ML).**  
-Atuação em streaming esportivo/broadcast (**LiveMode / CazeTV**).
+Atuação em streaming esportivo/broadcast (**LiveMode / CazeTV**) <img src="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" width="40">
 
 ---
 
