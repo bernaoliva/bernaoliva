@@ -1,5 +1,5 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Oi! Eu sou <a href="https://github.com/bernaoliva">Berna Oliva</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>Oi! Eu sou <a href="https://github.com/bernaoliva">Bernardo Oliva</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 ### 📬 Onde me encontrar
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/bernaoliva)](https://github.com/bernaoliva)
