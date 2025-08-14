@@ -7,7 +7,7 @@
 [![E-mail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:boliva@hotmail.com)
 ### Um pouco sobre mim:  
 **Foco em Dados, IA e Automação — em estudo contínuo (Data Science, Deep Learning, ML).**  
-Atuação em streaming esportivo/broadcast (**LiveMode / CazeTV**) <img src="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2025/06/03/1001268243-logo-caze-tv-610x400.jpg" width="60">
+Atuação em streaming esportivo/broadcast (**LiveMode / CazeTV**) 
 
 ---
 
