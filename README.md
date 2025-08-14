@@ -19,5 +19,7 @@ Atuação em streaming esportivo/broadcast (**LiveMode / CazeTV**).
 - 💬 Gosto de conversar sobre: **Python, SQL, JavaScript, vMix, Pandas, n8n**
 - 🎯 Objetivo: transformar dados e automações em entregas simples e úteis
 
-### ⚙️ Tecnologias & Ferramentas ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,js,html,n8n,mysql,aws,matplotlib,pandas)
+### ⚙️ Tecnologias & Ferramentas 
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,js,html,n8n,mysql,aws,matplotlib,pandas)
 
