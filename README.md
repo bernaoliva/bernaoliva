@@ -20,5 +20,5 @@ Atuação em streaming esportivo/broadcast (**LiveMode / CazeTV**) <img src="htt
 
 ### ⚙️ Tecnologias & Ferramentas 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,js,html,n8n,mysql,aws,matplotlib,pandas)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,js,html,n8n,mysql,aws,matplotlib,pandas) <img src="https://www.vmix.com/images/2017/logos/web/vmix-logo/vMix-Logo-White.png" width="100">
 
