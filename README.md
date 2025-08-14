@@ -3,9 +3,8 @@
 
 ### 📬 Onde me encontrar
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/bernaoliva)](https://github.com/bernaoliva)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/SEU-LINK)](https://www.linkedin.com/in/SEU-LINK)
-[![E-mail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![Portfólio Badge](https://img.shields.io/badge/-Portf%C3%B3lio-000?style=flat-square&logo=githubpages&logoColor=white&link=https://bernaoliva.github.io)](https://bernaoliva.github.io)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/SEU-LINK)](https://www.linkedin.com/in/bernardo-oliva)
+[![E-mail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:boliva@hotmail.com)
 
 ### Um pouco sobre mim...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 **Foco em Dados, IA e Automação — em estudo contínuo (Data Science, Deep Learning, ML).**  
